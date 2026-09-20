@@ -1,311 +1,91 @@
-<img src="https://raw.githubusercontent.com/het-codes-ai/het-codes-ai/main/assets/wave.gif" width="30px"> Het Modi — Developer Portfolio
-<div align="center">
-BUILD • SOLVE • IMPROVE
+Het Modi — Personal Portfolio
 
-Computer Science & Engineering Student · Problem Solver · Developer
+Welcome to my personal portfolio website.
 
+This portfolio showcases my journey as a Computer Science & Engineering student, including my projects, technical skills, problem-solving experience, and areas of interest.
 
+Live Website
 
+"Visit My Portfolio" (https://hetmodi.netlify.app/)
 
+About Me
 
-</div>
-👋 About
+I am a Computer Science & Engineering student passionate about building software, solving algorithmic problems, and exploring Artificial Intelligence and Web Development.
 
-Hi, I'm Het Modi, an incoming Computer Science & Engineering student at MSU Baroda (FTE).
+My current focus areas include:
 
-I'm focused on building strong fundamentals in computer science through consistent problem solving, hands-on development, and daily learning.
+- Data Structures and Algorithms
+- Competitive Programming and Problem Solving
+- Web Development
+- Artificial Intelligence
+- Software Engineering
 
-My current focus revolves around:
+Tech Stack
 
-🧠 Data Structures & Algorithms
-🔁 Recursion & Backtracking
-🤖 Artificial Intelligence
-🌐 Web Development
-⚙️ Core Software Engineering
-🧩 Algorithmic Problem Solving
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
-The goal isn't to learn everything at once.
-The goal is to become better every day.
+Portfolio Features
 
-🌐 Portfolio
+- Professional personal introduction
+- About Me section
+- Technical skills and technologies
+- Projects showcase
+- Data Structures and Algorithms progress
+- Contact section
+- Responsive design for desktop, tablet, and mobile devices
+- Modern dark-themed interface
+- Smooth animations and interactive UI elements
 
-This repository contains the source code for my personal developer portfolio.
+Featured Areas
 
-The website is designed around a dark red, black, and gold visual system, with a developer/terminal-inspired interface and subtle animations.
+Data Structures & Algorithms
 
-✨ Highlights
-Responsive design
-Dark developer aesthetic
-Red / black / gold color system
-Animated terminal typing effect
-Scroll reveal animations
-Animated statistics
-Interactive project showcase
-Mouse-following glow effect
-Project card 3D interaction
-Mobile navigation
-Responsive layouts
-Smooth scrolling
-Direct GitHub and LeetCode links
-🛠️ Built With
-Technology	Purpose
-HTML5	Website structure
-CSS3	Styling, animations & responsive design
-JavaScript	Interactions & animations
-Google Fonts	Inter & JetBrains Mono
+Regularly practicing algorithmic problem solving and improving my understanding of fundamental data structures and algorithms through platforms such as LeetCode.
 
-No frontend framework is required.
+Web Development
 
-The portfolio is intentionally built with vanilla HTML, CSS and JavaScript to keep the project lightweight, understandable and easy to maintain.
+Building responsive and interactive websites while improving my frontend development and software engineering skills.
 
-📂 Project Structure
-het-portfolio/
+Artificial Intelligence
+
+Exploring AI concepts and their practical applications through projects and continuous learning.
+
+Project Structure
+
+MY-PORTFOLIO/
 │
 ├── index.html
-│
 ├── style.css
-│
 ├── script.js
-│
-└── README.md
+└── assets/
+    └── ...
 
-index.html
+Getting Started
 
-Contains the complete semantic structure of the portfolio:
+To run the portfolio locally:
 
-Navbar
-   ↓
-Hero
-   ↓
-About
-   ↓
-Tech Stack
-   ↓
-Featured Project
-   ↓
-Current Mission
-   ↓
-Education
-   ↓
-Contact
-   ↓
-Footer
+git clone https://github.com/het-codes-ai/MY-PORTFOLIO.git
+cd MY-PORTFOLIO
 
-style.css
+Then open "index.html" in your browser.
 
-Handles:
+Deployment
 
-Dark theme
-Red / black / gold palette
-Responsive layouts
-Animations
-Cards
-Buttons
-Terminal interface
-Project visualization
-Mobile styling
-Hover effects
-script.js
+The portfolio is deployed using Netlify.
 
-Handles:
+Live Website:
 
-Terminal typing animation
-Mobile navigation
-Scroll reveal
-Animated counters
-Cursor glow
-Project card interaction
-Active navigation states
-Dynamic footer year
-🚍 Featured Project
-VMC Buses
-Vadodara City Bus Information System
+https://hetmodi.netlify.app/
 
-One of the main projects featured on the portfolio is VMC Buses, a self-contained static web application for exploring Vadodara city bus information.
+Connect With Me
 
-Features
-🚌 Complete route database
-📍 Nearby bus stops using device GPS
-🗺️ Interactive maps
-🛣️ Road-based route visualization
-💰 Fare calculation
-🔎 Route and stop search
-🤖 NOVA AI
-🌐 Multilingual translations
-📱 Responsive interface
-Map Technology
+You can find my latest projects, coding progress, and professional work through the links available on my portfolio.
 
-The project uses Leaflet for map rendering and OpenStreetMap tiles.
+Portfolio: "hetmodi.netlify.app" (https://hetmodi.netlify.app/)
 
-When available, OSRM is used to request road-based routing so that highlighted routes follow actual roads rather than simply connecting coordinates with straight lines.
+---
 
-A stored route geometry is retained as a fallback when the routing service is unavailable.
-
-Project
-
-🧠 Problem Solving
-
-I'm actively building my algorithmic problem-solving skills through consistent LeetCode practice.
-
-<div align="center">
-119+
-LeetCode Problems Solved
-</div>
-
-My current focus:
-
-Recursion
-    ↓
-Backtracking
-    ↓
-Trees
-    ↓
-Graphs
-    ↓
-Dynamic Programming
-
-
-The objective is to understand patterns and fundamentals, rather than simply collecting solved problems.
-
-💻 Tech Stack
-Languages
-
-
-
-
-
-
-
-Development
-Web Development
-Algorithmic Problem Solving
-Responsive UI
-Interactive Web Experiences
-API Integration
-Map-based Applications
-
-Tools & Environments
-Git
-GitHub
-Jvdroid
-Acode
-Pydroid 3
-Netlify
-
-🎯 Current Mission
-
-I'm currently working toward four major goals:
-
-#	Goal
-01	Solve DSA problems consistently
-02	Master recursion & backtracking
-03	Maintain a 9+ CGPA throughout engineering
-04	Build and ship practical software
-🎓 Education
-Computer Science & Engineering
-
-The Maharaja Sayajirao University of Baroda
-
-Faculty of Technology and Engineering — FTE
-
-Status: Incoming Student
-
-🎨 Design Philosophy
-
-The portfolio intentionally avoids excessive frameworks and dependencies.
-
-The idea is simple:
-
-Fast
- ↓
-Simple
- ↓
-Understandable
- ↓
-Maintainable
- ↓
-Useful
-
-
-The visual language combines:
-
-#050505 — Deep Black
-#E10600 — Red
-#D4AF37 — Gold
-#F5F5F5 — White
-
-The result is a bold developer-focused interface while keeping the actual implementation lightweight.
-
-🚀 Run Locally
-
-Clone the repository:
-
-git clone https://github.com/het-codes-ai/YOUR-PORTFOLIO-REPOSITORY.git
-
-
-Enter the project directory:
-
-cd YOUR-PORTFOLIO-REPOSITORY
-
-
-Then simply open:
-
-index.html
-
-
-No build system or package installation is required.
-
-For the best development experience, use VS Code + Live Server.
-
-📱 Responsive Design
-
-The portfolio is designed for:
-
-┌─────────────────────────────┐
-│          Desktop            │
-├─────────────────────────────┤
-│           Tablet            │
-├─────────────────────────────┤
-│           Mobile            │
-└─────────────────────────────┘
-
-
-The layout adapts automatically to different screen sizes, including mobile navigation and responsive project/skill layouts.
-
-🔮 Future Improvements
-
-The portfolio will continue evolving alongside my development journey.
-
-Potential additions:
-
- More real-world projects
- GitHub API integration
- Live LeetCode statistics
- Detailed project pages
- Blog / learning notes
- More DSA milestones
- Resume download
- Dark/light theme switch
- More interactive visualizations
-📬 Contact
-
-I'm always open to connecting with other developers, students and people interested in technology.
-
-Het Modi
-
-📧 Email: hetmodi25092008@gmail.com
-
-💻 GitHub: @het-codes-ai
-
-🧠 LeetCode: het-codes-ai
-
-🌐 Portfolio: Live Website
-
-<div align="center">
-LEARN → SOLVE → BUILD → SHIP → REPEAT
-
-Built with HTML · CSS · JavaScript
-
-⭐ If you find the project interesting, consider giving the repository a star.
-
-</div>
+Built and maintained by Het Modi.
