@@ -6,7 +6,7 @@ This portfolio showcases my journey as a Computer Science & Engineering student,
 
 Live Website
 
-"Visit My Portfolio" (https://hetmodi.netlify.app/)
+"Visit My Portfolio" (https://portfolio-het-modi.netlify.app/)
 
 About Me
 
